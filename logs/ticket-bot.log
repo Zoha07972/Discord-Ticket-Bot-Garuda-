@@ -1,0 +1,196 @@
+2026-10-17 07:14:26 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 07:14:26 INFO     discord.client | logging in using static token
+2026-10-17 07:14:29 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 07:14:29 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 07:14:29 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: 8d6367bf5e8393150816f568a580729f).
+2026-10-17 07:14:31 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 07:14:31 INFO     ticket_system.ticket_system | Ticket system is ready
+2026-10-17 07:15:55 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-3_2026-10-17_12-45-PM.txt
+2026-10-17 07:15:56 INFO     ticket_system.ticket_confirmation | Ticket 3 status updated to closed
+2026-10-17 07:15:57 INFO     ticket_system.ticket_confirmation | Ticket thread 1560914150245539982 locked and archived
+2026-10-17 07:29:45 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 07:29:45 INFO     discord.client | logging in using static token
+2026-10-17 07:29:48 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 07:29:48 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 07:29:48 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: 67d09eb74f4ac3ba602e94c4fd520e63).
+2026-10-17 07:29:50 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 07:29:50 INFO     ticket_system.ticket_system | Ticket system is ready
+2026-10-17 07:30:04 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-4_2026-10-17_01-00-PM.txt
+2026-10-17 07:30:05 INFO     ticket_system.ticket_confirmation | Ticket 4 status updated to closed
+2026-10-17 07:30:06 INFO     ticket_system.ticket_confirmation | Ticket thread 1560914406874030080 locked and archived
+2026-10-17 07:30:54 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-5_2026-10-17_01-00-PM.txt
+2026-10-17 07:30:56 INFO     ticket_system.ticket_confirmation | Ticket 5 status updated to closed
+2026-10-17 07:30:56 INFO     ticket_system.ticket_confirmation | Ticket thread 1560917910631747665 locked and archived
+2026-10-17 08:05:34 INFO     discord.gateway | Shard ID None has successfully RESUMED session 67d09eb74f4ac3ba602e94c4fd520e63.
+2026-10-17 09:23:57 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 09:23:57 INFO     discord.client | logging in using static token
+2026-10-17 09:24:01 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 09:24:01 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 09:24:01 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: bd6c32449c6ba7ae8ad1348d04dda5cb).
+2026-10-17 09:24:03 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 09:31:20 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 09:31:20 INFO     discord.client | logging in using static token
+2026-10-17 09:31:23 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 09:31:32 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 09:31:32 INFO     discord.client | logging in using static token
+2026-10-17 09:31:35 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 09:32:43 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 09:32:43 INFO     discord.client | logging in using static token
+2026-10-17 09:32:45 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 09:32:55 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 09:32:55 INFO     discord.client | logging in using static token
+2026-10-17 09:32:57 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 09:34:11 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 09:34:11 INFO     discord.client | logging in using static token
+2026-10-17 09:34:14 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 09:34:14 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 09:34:15 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: bff03a964b5cc4aa626ab2b3f6be3fc4).
+2026-10-17 09:34:17 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 09:34:17 INFO     ticket_system.ticket_system | TicketSystem is ready.
+2026-10-17 09:34:39 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-6_2026-10-17_03-04-PM.txt
+2026-10-17 09:34:41 INFO     ticket_system.ticket_confirmation | Ticket 6 status updated to closed
+2026-10-17 09:34:41 INFO     ticket_system.ticket_confirmation | Ticket thread 1560947376989020180 locked and archived
+2026-10-17 09:42:15 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 09:42:15 INFO     discord.client | logging in using static token
+2026-10-17 09:42:18 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 09:42:18 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 09:42:19 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: f051138efb816c5e4053e6152c090b0b).
+2026-10-17 09:42:21 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 09:42:21 INFO     ticket_system.ticket_system | TicketSystem is ready.
+2026-10-17 09:51:55 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-7_2026-10-17_03-21-PM.txt
+2026-10-17 09:51:57 INFO     ticket_system.ticket_confirmation | Ticket 7 status updated to closed
+2026-10-17 09:51:58 INFO     ticket_system.ticket_confirmation | Ticket thread 1560953460260610130 locked and archived
+2026-10-17 09:55:34 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 09:55:34 INFO     discord.client | logging in using static token
+2026-10-17 09:55:36 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 09:55:37 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 09:55:38 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: 28e02fbbf2b4459584c017058ff0b7e8).
+2026-10-17 09:55:40 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 09:55:40 INFO     ticket_system.ticket_system | TicketSystem is ready.
+2026-10-17 10:01:18 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 10:01:18 INFO     discord.client | logging in using static token
+2026-10-17 10:01:22 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 10:01:22 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 10:01:24 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: a3d83c4dbde9bf25e7a326fccc95a0ed).
+2026-10-17 10:01:26 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 10:01:26 INFO     ticket_system.ticket_system | TicketSystem is ready.
+2026-10-17 10:05:40 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 10:05:40 INFO     discord.client | logging in using static token
+2026-10-17 10:05:42 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 10:05:43 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 10:05:43 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: 9bccd65f2e7e9443b9b59cb0a0c64899).
+2026-10-17 10:05:45 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 10:05:45 INFO     ticket_system.ticket_system | TicketSystem is ready.
+2026-10-17 10:14:21 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 10:14:21 INFO     discord.client | logging in using static token
+2026-10-17 10:14:24 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 10:14:24 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 10:14:25 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: b31b1835f5f5e365a533e24fd5187fe1).
+2026-10-17 10:14:27 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 10:14:27 INFO     ticket_system.ticket_system | TicketSystem is ready.
+2026-10-17 10:36:06 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 10:36:06 INFO     discord.client | logging in using static token
+2026-10-17 10:36:09 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 10:36:09 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 10:36:10 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: 21754c788c41c795e18da09bc5687337).
+2026-10-17 10:36:12 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 10:36:12 INFO     ticket_system.ticket_system | TicketSystem is ready.
+2026-10-17 10:37:08 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-8_2026-10-17_04-07-PM.txt
+2026-10-17 10:37:09 INFO     ticket_system.ticket_confirmation | Ticket 8 status updated to closed
+2026-10-17 10:37:10 INFO     ticket_system.ticket_confirmation | Ticket thread 1560954902723952740 locked and archived
+2026-10-17 10:44:38 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 10:44:38 INFO     discord.client | logging in using static token
+2026-10-17 10:44:41 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 10:44:41 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 10:44:42 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: 307de17040f2908145ea93aec76d7e61).
+2026-10-17 10:44:44 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 10:44:44 INFO     ticket_system.ticket_system | TicketSystem is ready.
+2026-10-17 10:50:09 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 10:50:09 INFO     discord.client | logging in using static token
+2026-10-17 10:50:12 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 10:50:13 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 10:50:14 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: 35fa763de483304c08948fa2b0c969ac).
+2026-10-17 10:50:16 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 10:50:16 INFO     ticket_system.ticket_system | TicketSystem is ready.
+2026-10-17 10:52:32 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-10_2026-10-17_04-22-PM.txt
+2026-10-17 10:52:33 INFO     ticket_system.ticket_confirmation | Ticket 10 status updated to closed
+2026-10-17 10:52:34 INFO     ticket_system.ticket_confirmation | Ticket thread 1560968692890603520 locked and archived
+2026-10-17 10:53:28 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-9_2026-10-17_04-23-PM.txt
+2026-10-17 10:53:30 INFO     ticket_system.ticket_confirmation | Ticket 9 status updated to closed
+2026-10-17 10:53:30 INFO     ticket_system.ticket_confirmation | Ticket thread 1560964975399538691 locked and archived
+2026-10-17 11:10:22 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 11:10:22 INFO     discord.client | logging in using static token
+2026-10-17 11:10:26 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 11:10:26 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 11:10:26 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: 748ed71276fcb72f7699f310931c7c26).
+2026-10-17 11:10:29 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 11:10:29 INFO     ticket_system.ticket_system | TicketSystem is ready.
+2026-10-17 11:18:47 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-11_2026-10-17_04-48-PM.txt
+2026-10-17 11:18:49 INFO     ticket_system.ticket_confirmation | Ticket 11 status updated to closed
+2026-10-17 11:18:49 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-11_2026-10-17_04-48-PM.txt
+2026-10-17 11:18:49 INFO     ticket_system.ticket_confirmation | Ticket thread 1560968982725525636 locked and archived
+2026-10-17 11:18:51 INFO     ticket_system.ticket_confirmation | Ticket 11 status updated to closed
+2026-10-17 11:22:52 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 11:22:52 INFO     discord.client | logging in using static token
+2026-10-17 11:22:54 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 11:22:55 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 11:22:55 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: e3302df5bfca4b18cf02c763bbba58fc).
+2026-10-17 11:22:57 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 11:22:57 INFO     ticket_system.ticket_system | TicketSystem is ready.
+2026-10-17 11:31:12 INFO     ticket_system.ticket_system | Deleted temporary ticket voice room 1560978405506285738 after owner 732873905131225109 left.
+2026-10-17 11:33:15 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 11:33:15 INFO     discord.client | logging in using static token
+2026-10-17 11:33:18 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 11:33:18 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 11:33:18 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: f25ca88f05eb58de67bc22319ff9258f).
+2026-10-17 11:33:20 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 11:33:20 INFO     ticket_system.ticket_system | TicketSystem is ready.
+2026-10-17 11:33:37 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-12_2026-10-17_05-03-PM.txt
+2026-10-17 11:33:38 INFO     ticket_system.ticket_confirmation | Ticket 12 status updated to closed
+2026-10-17 11:33:39 INFO     ticket_system.ticket_confirmation | Ticket thread 1560976559727452320 locked and archived
+2026-10-17 11:34:30 INFO     ticket_system.ticket_system | Deleted temporary ticket voice room 1560979291649613847 after owner 732873905131225109 left.
+2026-10-17 11:42:10 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 11:42:10 INFO     discord.client | logging in using static token
+2026-10-17 11:42:16 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 11:42:16 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 11:42:17 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: 8597f9d5f74dc5b75d4216f4adf7272b).
+2026-10-17 11:42:19 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 11:42:19 INFO     ticket_system.ticket_system | TicketSystem is ready.
+2026-10-17 11:43:11 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-13_2026-10-17_05-13-PM.txt
+2026-10-17 11:43:13 INFO     ticket_system.ticket_confirmation | Ticket 13 status updated to closed
+2026-10-17 11:43:13 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-13_2026-10-17_05-13-PM.txt
+2026-10-17 11:43:14 INFO     ticket_system.ticket_confirmation | Ticket thread 1560979234736971787 locked and archived
+2026-10-17 11:43:15 INFO     ticket_system.ticket_confirmation | Ticket 13 status updated to closed
+2026-10-17 11:45:41 INFO     ticket_system.ticket_system | Deleted temporary ticket voice room 1560982095529250867 after owner 732873905131225109 left.
+2026-10-17 11:54:08 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 11:54:08 INFO     discord.client | logging in using static token
+2026-10-17 11:54:11 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 11:54:11 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 11:54:12 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: 72ae496f7cfbe29dc6bcac29c94f5b7d).
+2026-10-17 11:54:14 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 11:54:14 INFO     ticket_system.ticket_system | TicketSystem is ready.
+2026-10-17 11:54:54 INFO     ticket_system.ticket_system | Varnet ticket panel published in channel 1399713341861138502.
+2026-10-17 11:55:37 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-14_2026-10-17_05-25-PM.txt
+2026-10-17 11:55:39 INFO     ticket_system.ticket_confirmation | Ticket 14 status updated to closed
+2026-10-17 11:55:40 INFO     ticket_system.ticket_confirmation | Ticket thread 1560981683908382780 locked and archived
+2026-10-17 12:15:33 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 12:15:33 INFO     discord.client | logging in using static token
+2026-10-17 12:15:37 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 12:15:37 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 12:15:37 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: aeacad5ba289ac44738fc737f40d524a).
+2026-10-17 12:15:39 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 12:15:39 INFO     ticket_system.ticket_system | TicketSystem is ready.
+2026-10-17 12:16:05 INFO     ticket_system.ticket_system | Varnet ticket panel published in channel 1399713341861138502.
+2026-10-17 12:16:47 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-15_2026-10-17_05-46-PM.txt
+2026-10-17 12:16:48 INFO     ticket_system.ticket_confirmation | Ticket 15 status updated to closed
+2026-10-17 12:16:49 INFO     ticket_system.ticket_confirmation | Ticket thread 1560984730546216960 locked and archived
+2026-10-17 12:16:49 INFO     ticket_system.ticket_confirmation | Ticket transcript generated: transcripts/ticket-15_2026-10-17_05-46-PM.txt
+2026-10-17 12:16:51 INFO     ticket_system.ticket_confirmation | Ticket 15 status updated to closed
+2026-10-17 12:18:21 INFO     ticket_system.ticket_system | Deleted temporary ticket voice room 1560990289072619590 after owner 732873905131225109 left.
+2026-10-17 12:28:18 INFO     garudacloud.ticketbot | Starting Garuda Cloud Ticket Bot
+2026-10-17 12:28:18 INFO     discord.client | logging in using static token
+2026-10-17 12:28:20 INFO     assets.mysql | Database schema verified; missing ticket tables were created if necessary
+2026-10-17 12:28:20 INFO     garudacloud.ticketbot | Synced 5 application command(s).
+2026-10-17 12:28:21 INFO     discord.gateway | Shard ID None has connected to Gateway (Session ID: 34bf5f8b7a5fb704f9da71c0c77f7704).
+2026-10-17 12:28:23 INFO     garudacloud.ticketbot | Ticket bot connected as bot1396873815367225507#0767 (ID: 1396873815367225507).
+2026-10-17 12:28:23 INFO     ticket_system.ticket_system | TicketSystem is ready.
